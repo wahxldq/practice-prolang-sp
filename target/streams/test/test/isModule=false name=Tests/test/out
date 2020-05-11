@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0mTests:[0m
+[0m[[0m[0minfo[0m] [0m[0m- An empty Set should have size 0 (0 milliseconds)[0m
+[0m[[0m[0minfo[0m] [0m[0m- Always False *** FAILED *** (0 milliseconds)[0m
+[0m[[0m[0minfo[0m] [0m[0m  org.scalatest.exceptions.TestFailedException was thrown. (Tests.scala:10)[0m
+[0m[[0m[0minfo[0m] [0m[0m- Invoking head on an empty Set should produce NoSuchElementException (0 milliseconds)[0m

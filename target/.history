@@ -1,0 +1,45 @@
+run
+compile
+run
+compile
+test
+compile
+test
+console
+test-only A*
+testOnly A*
+test A*
+testOnly A*
+test
+tes
+test
+testOnly A*
+testOnly 
+test
+testOnly A*
+console
+run
+console
+compile
+console
+exit
+console
+package
+console
+compile
+console
+compile
+:quit
+compile
+console
+compile
+console
+compile
+jline.TerminalFactory.get.init
+console
+compile
+console
+compile
+console
+compile
+console
