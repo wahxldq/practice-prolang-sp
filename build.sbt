@@ -1,4 +1,4 @@
-name := "tfpl-1234567x"
+name := "prolang-sp-1234567x"
 version := "1.2.8"
 
 scalaVersion := "2.12.10"
