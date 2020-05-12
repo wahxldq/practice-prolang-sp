@@ -1,2 +1,4 @@
-# practice-prolang-sp
-# practice-prolang-sp
+# ようこそ!
+
+これはプログラミング言語特論の Gitpod ワークスペースです．
+

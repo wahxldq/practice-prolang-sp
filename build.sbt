@@ -1,5 +1,5 @@
 name := "tfpl"
-version := "1.0"
+version := "1.2.8"
 
 scalaVersion := "2.12.10"
 
@@ -14,8 +14,8 @@ resourceDirectory in Compile := baseDirectory.value / "data"
 
 resourceDirectory in Compile := baseDirectory.value / "docs"
 
-testOptions in Test ++= Seq(
-  Tests.Argument(TestFrameworks.ScalaTest, "-fWDT", s"docs/test-report_${name.value}.txt","-eNDXEHLO","-C", "SampleReporter")
-  )
+//testOptions in Test ++= Seq(
+//  Tests.Argument(TestFrameworks.ScalaTest, "-fWDT", s"docs/test-report_${name.value}.txt","-eNDXEHLO","-C", "SampleReporter")
+//  )
 
 
