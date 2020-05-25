@@ -14,7 +14,8 @@ case class Leaf(n: Int) extends Tree {
 
 case class Node(op: String, left: Tree, right: Tree) extends Tree {
   // 講義資料をみて学習を進めながら適宜コメントを外してください. ??? は自分で考えて実装してください．
-  /*
+  def value = ???
+  /* 実装が完了したら上の def value と置き換えてください．
   def value = op match {
     case "+" => left.value + right.value
     case "-" => ???
