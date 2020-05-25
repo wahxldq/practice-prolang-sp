@@ -1,3 +1,5 @@
+package lecture.basic3
+
 abstract class Tree {
   // 講義資料をみて学習を進めながら適宜コメントを外してください
   // def value: Double
