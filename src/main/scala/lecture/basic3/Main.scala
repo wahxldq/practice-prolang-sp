@@ -76,8 +76,8 @@ object Main {
   /*
   def findSolutions(xs: Seq[Int], a: Int): Seq[Tree] = {
       for {
-        tree <- genTrees4(xs(0),xs(1),xs(2),xs(3))
-        if tree.valueEquals(a)
+        tree <- ???
+        if ???
       } yiled tree
   }
   */
