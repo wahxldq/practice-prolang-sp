@@ -15,7 +15,7 @@ class T03 extends FunSuite {
 
     test("genTree4のテスト") {
         assert(
-            es.forall(e => lecture.basic3.Main.findSolutions(e,10).toSet == Ticket.findSolutions(e,10).toSet)
+            es.forall(e => lecture.basic3.Main.findSolutions(e,10).size == Ticket.findSolutions(e,10).size)
             )
     }    
 
