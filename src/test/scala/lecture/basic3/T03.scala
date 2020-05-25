@@ -10,7 +10,8 @@ class T03 extends FunSuite {
         Seq(1,2,3,4),
         Seq(8,1,1,5),
         Seq(5,4,3,2),
-        Seq(9,8,7,6)
+        Seq(9,8,7,6),
+        Seq(5,5,5,5)
     )
 
     test("genTrees4のテスト") {
