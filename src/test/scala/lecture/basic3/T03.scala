@@ -13,7 +13,7 @@ class T03 extends FunSuite {
         Seq(9,8,7,6)
     )
 
-    test("genTree4のテスト") {
+    test("genTrees4のテスト") {
         assert(
             es.forall(e => lecture.basic3.Main.findSolutions(e,10).size == Ticket.findSolutions(e,10).size)
             )
