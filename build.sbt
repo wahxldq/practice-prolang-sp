@@ -6,6 +6,7 @@ scalaVersion := "2.12.10"
 libraryDependencies += "org.scalactic" %% "scalactic" % "3.1.1"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.1.1" % "test"
 
+
 logBuffered in Test := false
 
 parallelExecution in Test := false
