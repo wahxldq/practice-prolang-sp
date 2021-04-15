@@ -15,7 +15,7 @@ class T02 extends FunSuite {
 
     test("中央値メソッドのテスト") {
         assert(
-            es.forall(e => lecture.basic2.Main.median(e) == Test.median(e))
+            es.forall(e => lecture.basic2.Main2.median(e) == Test.median(e))
             )
     }    
 

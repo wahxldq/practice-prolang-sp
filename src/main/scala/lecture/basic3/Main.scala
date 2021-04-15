@@ -72,6 +72,8 @@ object Main {
     trees1 ++ trees2 ++ trees3
   }
   */
+  def genTrees(e: Seq[Int]): Seq[Tree] = ???
+  def findSolutions(xs: Seq[Int], a: Int): Seq[Tree] = ???
 
   /*
   def findSolutions(xs: Seq[Int], a: Int): Seq[Tree] = {

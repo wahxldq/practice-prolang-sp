@@ -4,7 +4,7 @@ abstract class medianSpec {
     def median(seq: Seq[Int]): Double 
 }
 
-object Main extends medianSpec {
+object Main2 extends medianSpec {
 
     def main(args: Array[String]) = {
         val example1 = Seq(1,2,3)
