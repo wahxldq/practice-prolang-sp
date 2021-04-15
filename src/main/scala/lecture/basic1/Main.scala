@@ -6,6 +6,6 @@ object Main {
         println(firstMethod)
     }
 
-    def firstMethod(): String = ??? // <--- ??? の代わりに "Hello World!" と書いてください
+    def firstMethod(): String = "Hello World!" // <--- ??? の代わりに "Hello World!" と書いてください
 
 }
